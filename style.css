@@ -1,1 +1,9 @@
-
+.gas{
+  color:red;
+}
+.liquid{
+  color:blue;
+}
+.unknown{
+  color:green;
+}
